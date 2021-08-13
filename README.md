@@ -2,7 +2,7 @@
 <hr />
 
 ## :books: About
-##### This module is extension for [crayon.js](https://github.com/crayon-js/crayon) however it can still be used by other modules.
+##### This module is extension for [crayon](https://deno.land/x/crayon) however it can still be used by other modules.
 
 This module is permission-safe module. It'll still work without giving it permission by default, however you can force/ask for permissions by setting appropriate options.
 
