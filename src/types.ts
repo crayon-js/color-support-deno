@@ -1,6 +1,6 @@
 export interface CrayonColorSupport {
-	threeBitColor: boolean
-	fourBitColor: boolean
-	highColor: boolean
-	trueColor: boolean
+  threeBitColor: boolean;
+  fourBitColor: boolean;
+  highColor: boolean;
+  trueColor: boolean;
 }
